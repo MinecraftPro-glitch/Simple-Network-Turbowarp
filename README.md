@@ -19,19 +19,15 @@ This Turbowarp extension allows you to send GET and POST HTTP(S) requests direct
 	•	Sends a GET request to the specified URL.
 	•	Returns the raw response as text.
 
-# Example:
+Example:
 
 GET request to [https://api.example.com/data]
 
-
-
-⸻
-
-## POST request to [URL] with JSON [BODY]
+## POST request to [URL] with JSON [BODY]
 	•	Sends a POST request to the specified URL with the provided JSON body.
 	•	Returns the raw response as text.
 
-# Example:
+Example:
 
 POST request to [https://api.example.com/post] with JSON [{"name": "Max"}]
 

@@ -40,7 +40,7 @@ POST request to [https://api.example.com/post] with JSON [{"name": "Max"}]
 	1.	Go to TurboWarp.
 	2.	Click the Extensions menu.
 	3.	Select “Load Extension from URL” (MAKE SURE TO CHECK THE "RUN WITHOUT SANDBOX" BOX).
-	4.	Paste the raw URL of the .js file containing the extension.
+	4.	Copy and paste the extension code into the "Text" tab or load the extension from the file
 	5.	Start using your new GET/POST blocks!
 
 ⸻

@@ -34,7 +34,9 @@ POST request to [https://api.example.com/post] with JSON [{"name": "Max"}]
 
 ⸻
 
-How to Install
+# How to Install
+
+
 	1.	Go to TurboWarp.
 	2.	Click the Extensions menu.
 	3.	Select “Load Extension from URL” (MAKE SURE TO CHECK THE "RUN WITHOUT SANDBOX" BOX).
